@@ -1,0 +1,34 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 1em;
+  text-align: center;
+  font-family: 'Helvetica';
+}
+
+h1, h2 {
+  font-weight: 200;
+}
+
+input {
+  line-height: 27px;
+  font-size: 1em;
+}
+
+
+div#example {
+  margin-top: 10em;
+  align-items: center;
+}
+
+div#container {
+  margin: 2em;
+}
+
+div#roman {
+  padding: 1em;
+  margin: 2em;
+  font-size: 30px;
+  font-weight: 200;
+}
+
